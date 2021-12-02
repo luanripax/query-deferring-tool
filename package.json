@@ -1,0 +1,18 @@
+{
+  "name": "trab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "jsdom": "^16.6.0",
+    "puppeteer": "^10.1.0",
+    "scanf": "^1.1.2"
+  }
+}
